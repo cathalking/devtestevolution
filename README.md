@@ -1,4 +1,8 @@
-devtestevolution
-================
+This a collection of small demos that show off particular features of testing frameworks
 
-Examples of developer/unit tests illustrating various techniques that can help improve test code quality
+Currently includes:
+- Cucumber-jvm w/ Java for glue code 
+- Cucumber-jvm w/ Groovy for glue code 
+- Spock 
+- Selenium WebDriver
+- Geb
