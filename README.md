@@ -1,8 +1,13 @@
-This a collection of small demos that show off particular features of testing frameworks
+A collection of developer/unit tests illustrating various techniques that can help improve test code quality.
+Focuses on techniques, libraries and practices that improve readability and maintainability.
 
-Currently includes:
-- Cucumber-jvm w/ Java for glue code 
-- Cucumber-jvm w/ Groovy for glue code 
-- Spock 
-- Selenium WebDriver
-- Geb
+Makes use of the following assertion/matcher libraries:
+- Hamcrest
+- FEST Assert
+
+Makes use of the following Test Isolation frameworks:
+- Mockito
+
+Gives examples of the following test code patterns
+- Object Mother
+- Test Data Builder
