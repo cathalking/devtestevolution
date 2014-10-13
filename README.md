@@ -11,3 +11,5 @@ Makes use of the following Test Isolation frameworks:
 Gives examples of the following test code patterns
 - Object Mother
 - Test Data Builder
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cathalking/devtestevolution?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
